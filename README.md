@@ -1,2 +1,6 @@
 # sonarqube
-Apresentação do Sonarqube ao time 
+Apresentação criada para time de desenvolvimento
+• Oque é SonarQube
+• Ferramentas
+• Pros e contras 
+• Conclusão
